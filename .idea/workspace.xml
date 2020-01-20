@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5cfa1a66-233f-4f2a-bb7b-4bc0dfa9aa7b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Wde5OJKQ0gSk83i4Sys0kLSFvu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="calculator" />
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="tests" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Arvi\IdeaProjects\latihan unit test dan integration\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Arvi\IdeaProjects\latihan unit test dan integration\src\test" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestKalkulator">
+    <configuration name="TestHasil" type="JUnit" factoryName="JUnit">
+      <module name="latihan unit test dan integration" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestHasil" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestHasil.testGetJawab" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="latihan unit test dan integration" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestHasil" />
+      <option name="METHOD_NAME" value="testGetJawab" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestKalkulator" type="JUnit" factoryName="JUnit">
+      <module name="latihan unit test dan integration" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestKalkulator" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestKalkulator.testPembagian" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="latihan unit test dan integration" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestKalkulator" />
+      <option name="METHOD_NAME" value="testPembagian" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestKalkulator.testPengurangan" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="latihan unit test dan integration" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestKalkulator" />
+      <option name="METHOD_NAME" value="testPengurangan" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestKalkulator.testPerkalian" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="latihan unit test dan integration" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestKalkulator" />
+      <option name="METHOD_NAME" value="testPerkalian" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestKalkulator.testPertambahan" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="latihan unit test dan integration" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestKalkulator" />
+      <option name="METHOD_NAME" value="testPertambahan" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.TestKalkulator" />
+      <item itemvalue="JUnit.TestHasil" />
+      <item itemvalue="JUnit.TestKalkulator.testPembagian" />
+      <item itemvalue="JUnit.TestKalkulator.testPerkalian" />
+      <item itemvalue="JUnit.TestKalkulator.testPengurangan" />
+      <item itemvalue="JUnit.TestKalkulator.testPertambahan" />
+      <item itemvalue="JUnit.TestHasil.testGetJawab" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestKalkulator.testPembagian" />
+        <item itemvalue="JUnit.TestKalkulator.testPerkalian" />
+        <item itemvalue="JUnit.TestHasil.testGetJawab" />
+        <item itemvalue="JUnit.TestKalkulator.testPertambahan" />
+        <item itemvalue="JUnit.TestKalkulator.testPengurangan" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5cfa1a66-233f-4f2a-bb7b-4bc0dfa9aa7b" name="Default Changelist" comment="" />
+      <created>1579483714108</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579483714108</updated>
+      <workItem from="1579483715327" duration="2250000" />
+      <workItem from="1579486049964" duration="13000" />
+      <workItem from="1579486603561" duration="1187000" />
+      <workItem from="1579488400712" duration="6000" />
+      <workItem from="1579488495135" duration="4968000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="362" y="357" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579492452271">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="362" y="357" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1579492452271" />
+    <state x="690" y="321" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1579489033816">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="690" y="321" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1579489033816" />
+    <state x="637" y="486" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1579492443794">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="637" y="486" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1579492443794" />
+    <state x="756" y="400" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1579489093053">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="756" y="400" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080@0.0.1920.1080" timestamp="1579489093053" />
+    <state x="645" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1579490058525">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="645" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1579490058525" />
+    <state x="740" y="282" key="FileChooserDialogImpl" timestamp="1579492997485">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="282" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1579492997485" />
+    <state width="1877" height="322" key="GridCell.Tab.0.bottom" timestamp="1579493469466">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="322" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1579493469466" />
+    <state width="1877" height="322" key="GridCell.Tab.0.center" timestamp="1579493469466">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="322" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1579493469466" />
+    <state width="1877" height="322" key="GridCell.Tab.0.left" timestamp="1579493469466">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="322" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1579493469466" />
+    <state width="1877" height="322" key="GridCell.Tab.0.right" timestamp="1579493469466">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="322" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1579493469466" />
+    <state width="1877" height="363" key="GridCell.Tab.1.bottom" timestamp="1579493279799">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1579493279799" />
+    <state width="1877" height="363" key="GridCell.Tab.1.center" timestamp="1579493279799">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1579493279799" />
+    <state width="1877" height="363" key="GridCell.Tab.1.left" timestamp="1579493279799">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1579493279799" />
+    <state width="1877" height="363" key="GridCell.Tab.1.right" timestamp="1579493279799">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1579493279799" />
+    <state x="440" y="115" key="SettingsEditor" timestamp="1579489023239">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="440" y="115" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1579489023239" />
+    <state x="776" y="323" key="chooseDestDirectoryDialog" timestamp="1579489046026">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="776" y="323" key="chooseDestDirectoryDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1579489046026" />
+    <state x="665" y="620" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1579484624610">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="665" y="620" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1080@0.0.1920.1080" timestamp="1579484624610" />
+    <state x="731" y="430" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1579488994167">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="731" y="430" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1579488994167" />
+  </component>
+</project>
